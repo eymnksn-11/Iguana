@@ -1,4 +1,4 @@
-# IGuAna: Inverse Gradient Unbound Accelerated Network Adaptor
+# 🦎 IGuAna: Inverse Gradient Unbound Accelerated Network Adaptor
 
 IGuAna is a high-velocity, adaptive first-order optimizer designed for deep learning architectures. While industry standards like Adam focus on dampening gradient noise through second-moment normalization, IGuAna introduces a radical shift: it leverages the inverse of gradient variance to reward directional stability with exponential acceleration.
 
